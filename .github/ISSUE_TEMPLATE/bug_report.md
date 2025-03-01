@@ -12,13 +12,14 @@ A clear and concise description of what the bug is.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Go to [MalariaDetector Repository](https://github.com/nathiedeheyl/MalariaDetector) 
+2. Open Porject with preferred IDE
+3. Open MalariaDetector/jupyter_notebooks/02 - DataVisualization.ipynb file
+4. Scroll down to '...'
+5. See Error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Question** (and possibly **Expected behavior**)
+A clear and concise description of what you expected to happen and what is unclear to you.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
